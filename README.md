@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="left" alt="HTML5" width="100px" src="./assets/memogies/GitHub.gif" />  
+<img align="left" alt="HTML5" width="100px" src="./assets/GitHub.gif" />  
 
-## &nbsp; Hi there, It's me => Prashant  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## &nbsp; Hi there, It's me = () => Prashant  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ### Some languages and tools I am playing with
 
@@ -26,24 +26,15 @@
 [!["Followers"](https://img.shields.io/github/followers/Prashantch265?label=Follow&style=social)](https://github.com/Prashantch265)
 
 
-<details>
-  <summary>:zap: GitHub stats</summary>
-  <img src="https://github-readme-stats.Prashantch265.vercel.app/api?username=Prashantch265&show_icons=true&count_private=true&theme=dracula" alt="Github stats"/>
-</details>
-
-<details>
-  <summary>:zap: Top Languages</summary>
-    <img src="https://github-readme-stats.Prashantch265.vercel.app/api/top-langs/?username=Prashantch265&layout=compact&theme=dracula&&langs_count=7" alt="Top Langs"/>
-</details>
-
+- 🔭 I’m currently working on ... 
+- 🌱 I’m currently learning ...
 
 <!--
 **Prashantch265/Prashantch265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
