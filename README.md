@@ -4,8 +4,6 @@
 
 <br/>
 
-<img align="left" alt="HTML5" width="100px" src="./assets/GitHub.gif" />  
-
 ### Some languages and tools I am playing with
 
 !["GitHub"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
