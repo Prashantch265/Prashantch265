@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-<img align="left" alt="HTML5" width="100px" src="./assets/GitHub.gif" />  
+## &nbsp; It's me = ( ) => Prashant  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## &nbsp; It's me = () => Prashant  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<br/>
+
+<img align="left" alt="HTML5" width="100px" src="./assets/GitHub.gif" />  
 
 ### Some languages and tools I am playing with
 
