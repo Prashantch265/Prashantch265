@@ -20,6 +20,8 @@
 [<img align="left" alt="Prashant Chaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.instagram.com/prashant_ch265/)
 [<img align="left" alt="prashant_ch265 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.linkedin.com/in/prashant-ch265/)
 
+<br/>
+
 ### Languages and Tools I Use
 
 !["GitHub"](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
