@@ -6,16 +6,16 @@
 
 - 📫 How to reach me: 
 <a href="https://prashant-ch265.herokuapp.com/">
-  [<img align="left" alt="prashant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+  [<img align="left" alt="prashant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
 </a>
 <a href="https://www.facebook.com/prashant.chy.39/">
-  [<img align="left" alt="Prashant Chy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
+  [<img align="left" alt="Prashant Chy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />]
 </a>
 <a href="https://www.instagram.com/prashant_ch265/">
-  [<img align="left" alt="Prashant Chaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="Prashant Chaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 </a>
 <a href="https://www.linkedin.com/in/prashant-ch265/">
-  [<img align="left" alt="prashant_ch265 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+  [<img align="left" alt="prashant_ch265 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
 </a>
 
 - 🔭 I’m currently working on ... 
@@ -39,7 +39,6 @@
 !["PhP"](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 !["MD"](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 [!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=Prashantch265.Prashantch265)](https://github.com/Prashantch265)
 [!["Followers"](https://img.shields.io/github/followers/Prashantch265?label=Follow&style=social)](https://github.com/Prashantch265)
