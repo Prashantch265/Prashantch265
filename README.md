@@ -9,29 +9,16 @@
 
 <br/>
 
-<ul>
-  <li>📫 How to reach me:
-    <a href="https://prashant-ch265.herokuapp.com/">
-      <img align="left" alt="prashant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-    </a>
-    <a href="https://www.facebook.com/prashant.chy.39/">
-      <img align="left" alt="Prashant Chy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
-    </a>
-    <a href="https://www.instagram.com/prashant_ch265/">
-      <img align="left" alt="Prashant Chaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/prashant-ch265/">
-      <img align="left" alt="prashant_ch265 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a>
-  </li>
-</ul>
-
-
-<br/>
-
 - 🔭 I’m currently working on ... 
 
 - 🌱 I’m currently learning ...
+
+### 📫 How to reach me:
+
+-[<img align="left" alt="prashant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://prashant-ch265.herokuapp.com/)
+[<img align="left" alt="Prashant Chy | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />](https://www.facebook.com/prashant.chy.39/)
+[<img align="left" alt="Prashant Chaudhary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.instagram.com/prashant_ch265/)
+[<img align="left" alt="prashant_ch265 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.linkedin.com/in/prashant-ch265/)
 
 
 ### Languages and Tools I Use
