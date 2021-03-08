@@ -10,7 +10,6 @@
 <br/>
 
 - 📫 How to reach me: 
-<div style="display = inline">
 <a href="https://prashant-ch265.herokuapp.com/">
   <img align="left" alt="prashant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -23,7 +22,6 @@
 <a href="https://www.linkedin.com/in/prashant-ch265/">
   <img align="left" alt="prashant_ch265 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-</div>
 
 <br/>
 
