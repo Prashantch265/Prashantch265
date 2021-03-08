@@ -10,6 +10,7 @@
 <br/>
 
 - 📫 How to reach me: 
+[![website](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg "Prashant")](https://prashant-ch265.herokuapp.com/)
 <a href="https://prashant-ch265.herokuapp.com/">
   <img align="left" alt="prashant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
