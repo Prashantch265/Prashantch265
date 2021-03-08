@@ -3,12 +3,13 @@
 ## It's me = ( ) => Prashant 
 
 <div>
-  [!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=Prashantch265.Prashantch265)](https://github.com/Prashantch265)
-  [!["Followers"](https://img.shields.io/github/followers/Prashantch265?label=Follow&style=social)](https://github.com/Prashantch265)
+  [!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=Prashantch265.Prashantch265)](https://github.com/Prashantch265)]
+  [!["Followers"](https://img.shields.io/github/followers/Prashantch265?label=Follow&style=social)](https://github.com/Prashantch265)]
 </div>
 
 <br/>
 
+<div>
 - 📫 How to reach me: 
 <a href="https://prashant-ch265.herokuapp.com/">
   <img align="left" alt="prashant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -22,6 +23,7 @@
 <a href="https://www.linkedin.com/in/prashant-ch265/">
   <img align="left" alt="prashant_ch265 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+</div>
 
 - 🔭 I’m currently working on ... 
 
