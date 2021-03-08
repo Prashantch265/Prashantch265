@@ -10,8 +10,7 @@
 <br/>
 
 <ul>
-  <li>📫 How to reach me:</li>
-  <li>
+  <li>📫 How to reach me:
     <a href="https://prashant-ch265.herokuapp.com/">
       <img align="left" alt="prashant" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
     </a>
