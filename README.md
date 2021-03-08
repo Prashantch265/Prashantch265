@@ -3,8 +3,8 @@
 ## It's me = ( ) => Prashant 
 
 
-[!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=Prashantch265.Prashantch265)](https://github.com/Prashantch265)]
-[!["Followers"](https://img.shields.io/github/followers/Prashantch265?label=Follow&style=social)](https://github.com/Prashantch265)]
+[!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=Prashantch265.Prashantch265)](https://github.com/Prashantch265)
+[!["Followers"](https://img.shields.io/github/followers/Prashantch265?label=Follow&style=social)](https://github.com/Prashantch265)
 
 
 <br/>
@@ -24,6 +24,8 @@
   <img align="left" alt="prashant_ch265 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </div>
+
+<br/>
 
 - 🔭 I’m currently working on ... 
 
