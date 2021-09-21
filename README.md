@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=prashant-ch265.herokuapp.com&up_color=blue&up_message=UP&url=https%3A%2F%2Fprashant-ch265.herokuapp.com%2F)](https://prashant-ch265.herokuapp.com/)
 [!["Followers"](https://img.shields.io/github/followers/Prashantch265?label=Follow&style=social)](https://github.com/Prashantch265)
 
-- 🔭 I’m currently working on ... 
+- 🔭 I’m currently working on InfoDevelopers 
 
 - 🌱 I’m currently learning Authentication and Authorization
 
@@ -30,6 +30,7 @@
 !["Css"](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 !["Bootstrap"](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 !["JS"](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+!["TS"](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=blue)
 !["Node"](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 !["NPM"](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 !["Express"](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
