@@ -7,9 +7,9 @@
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=prashant-ch265.herokuapp.com&up_color=blue&up_message=UP&url=https%3A%2F%2Fprashant-ch265.herokuapp.com%2F)](https://prashant-ch265.herokuapp.com/)
 [!["Followers"](https://img.shields.io/github/followers/Prashantch265?label=Follow&style=social)](https://github.com/Prashantch265)
 
-- 🔭 I’m currently working on InfoDevelopers 
+- 🔭 I’m currently working at InfoDevelopers 
 
-- 🌱 I’m currently learning Authentication and Authorization
+- 🌱 I’m currently learning Web Sockets
 
 ### 📫 How to reach me:
 
@@ -33,7 +33,8 @@
 !["TS"](https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=blue)
 !["Node"](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 !["NPM"](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-!["Express"](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 !["PhP"](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 !["MySql"](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 !["MD"](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
